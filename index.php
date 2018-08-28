@@ -14,3 +14,14 @@ $res = $client->request('GET', 'http://unicorns.idioti.se/',[
 
 // Omvandla JSON-svar till datatyper
 ?>
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+  </head>
+  <body>
+
+  </body>
+</html>

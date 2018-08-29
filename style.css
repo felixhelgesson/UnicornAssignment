@@ -8,9 +8,30 @@
       border-radius: 20px;
 }
 
-.unicornItem{
+h1{
+  margin-bottom: 50px;
+  font-size: 50px;
 
+}
+
+.greenish{
+  color: #5B7152;
+}
+
+.smallButton{
+  font-size: 9px;
+  margin: 10px;
+  /*font-family: 'Baloo Tammudu', cursive;*/
+}
+.rounded{
   border: 20px;
   border-radius: 20px;
-  width: 150px;
+}
+.unicornItem{
+  width: 100%;
+  justify-content: center;
+}
+
+.unicornSec{
+  font-size: 18px;
 }
